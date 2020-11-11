@@ -10,3 +10,5 @@ Board do Trello: https://trello.com/b/4PNwuJp4/fixcit-sprintboard
 
 Express: https://expressjs.com/pt-br/starter/installing.html
 MongoDB: https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/
+-mongo
+-use fixcit-main
