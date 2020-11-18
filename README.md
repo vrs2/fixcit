@@ -1,6 +1,6 @@
 # FixCit
 
-Projeto iniciado na cadeira de Engenharia de Software do curso de Sistemas de Informação no semestre 2020.3 na Universidade federal de Pernambuco, que tem como intuito auxiliar a resolução de problemas nos serviços públicos de caráter essêncial(água,luz,energia,etc.)
+Projeto iniciado na cadeira de Engenharia de Software do curso de Sistemas de Informação no semestre 2020.3 na Universidade federal de Pernambuco, que tem como intuito auxiliar a resolução de problemas nos serviços públicos de caráter essencial (água,luz,energia,etc.)
 
 ## Links Úteis
 
